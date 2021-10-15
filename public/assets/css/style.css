@@ -1,0 +1,53 @@
+
+/*Page home*/
+.character-pic {
+    max-width: 100%;
+    max-height : 200px;
+}
+
+/*page 404*/
+
+.page-404-div{
+    display: flex;
+    justify-content: center;
+}
+
+.page-404-img {
+    width: 100%;
+}
+
+/*Page Navigation*/
+
+nav {
+    background-color: rgb(52, 58, 64);
+    height: 80px;
+}
+.nav-logo{
+    position: relative;
+    top: 5px;
+    left: 10px;
+    width: 9%;
+    filter: darkseagreen(100%);
+}
+
+.nav-item{
+    width: auto;
+    height: 40px;
+    position: relative;
+    left: 500px;
+    top: 12px;
+    word-spacing: 2px;
+    letter-spacing: 1.5px;
+}
+
+.nav-link{
+    font-size: 25px;
+    color: rgb(143, 188, 143);
+}
+.nav-link:hover{
+    color:beige;
+}
+
+
+
+
